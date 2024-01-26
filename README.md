@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Nishchal Gond</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img class="center" alt="Coding" length="12000" width="400" src="https://imgs.search.brave.com/oPnYHljDyGdevIa0f3ZRkGvfo2OONwXTHauDA3KVEBU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvbWFuLXF1/aWNrLXN5c3RlbS1j/b2RpbmctdmdzZGEy/dDdkNXR1N285eC5n/aWY.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rio2802&label=Profile%20views&color=0e75b6&style=flat" alt="rio2802" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rio2802" alt="rio2802" /></a> </p>
