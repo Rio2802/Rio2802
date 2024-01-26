@@ -8,13 +8,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Rio2802-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@rio2802-the-lessful" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nishchal-g-741a64107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishchal gond" height="30" width="40" /></a>
-<a href="https://fb.com/@nishchal gond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@nishchal gond" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rio.zen7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rio.zen7" height="30" width="40" /></a>
-<a href="https://www.behance.net/@nishchalgond1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@nishchalgond1" height="30" width="40" /></a>
-<a href="https://medium.com/@rio01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rio01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/@nishchalgond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@nishchalgond" height="30" width="40" /></a>
+<a href="https://codepen.io/Rio2802-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Nishchal Gond" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishchal-g-741a64107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishchal Gond" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nishchal.gond/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nishchal Gond" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rio.zen7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nishchal Gond" height="30" width="40" /></a>
+<a href="https://www.behance.net/nishchalgond1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Nishchal Gond" height="30" width="40" /></a>
+<a href="https://medium.com/@rio01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Nishchal Gond" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/@nishchalgond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Nishchal Gond" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
