@@ -28,7 +28,7 @@
       <a href="https://instagram.com/@rio.zen7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rio.zen7" height="30" width="40" /></a>
       <a href="https://www.behance.net/@nishchalgond1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="@nishchalgond1" height="30" width="40" /></a>
       <a href="https://medium.com/@rio01" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rio01" height="30" width="40" /></a>
-      <a href="[https://www.hackerrank.com/@nishchalgond](https://www.hackerrank.com/profile/1ep21cs062_cse)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nishchalgond" height="30" width="40" />
+      <a href="https://www.hackerrank.com/profile/1ep21cs062_cse" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nishchalgond" height="30" width="40" />
 </a>
     </p>
   </div>
