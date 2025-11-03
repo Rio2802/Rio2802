@@ -1,23 +1,76 @@
-<!-- Profile Banner -->
+<!-- 🏞️ Profile Banner -->
 <p align="center">
   <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Profile Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nishchal Gond</h1>
-<h3 align="center">💻 A passionate Frontend Developer from India</h3>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00bcd4;">Nishchal Gond</span></h1>
+<h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Engineer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rio2802&label=Profile%20views&color=0e75b6&style=flat" alt="rio2802" />
+  <i>“Don't complain about the tools you don't have. Master the ones you do.”</i>
 </p>
 
 ---
 
-### 💫 About Me
+### 🌟 Quick Info
+- 🔭 I’m currently working on **SmartRide Manager** (React Native + Expo)  
+- 🌱 Learning **Next.js, AWS Lambda, and FastAPI**  
+- 🎯 Goal: To build smarter, faster, and more secure apps  
+- 🧠 Interested in **AI-Driven Web Systems, Blockchain, and Cloud Computing**  
 
-- 🔭 I’m currently working on **SmartRide Manager**  
-- 🌱 I’m learning **React Native, Firebase, and Cloud Security**  
-- 💬 Ask me about **React, Django, Node.js, and Web Development**  
-- ⚡ Fun fact: I love building digital solutions that make life easier 🚴‍♂️  
+---
+
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,nodejs,tailwind,django,flask,mysql,mongodb,aws,git,github,vscode,linux" />
+</p>
+
+---
+
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=rio2802&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rio2802&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rio2802&theme=radical" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+| Project | Description | Stack |
+|----------|--------------|--------|
+| 🚘 [SmartRide Manager](https://github.com/Rio2802/SmartRideManager) | React Native + Firebase app for bike maintenance tracking | React Native, Firebase |
+| 🧠 [J.A.D.E](https://github.com/Rio2802/J.A.D.E) | AI-based assistant leveraging NLP for automation | Python |
+| 🔗 [IPFS IMG Upload](https://github.com/Rio2802/IPFS_IMG_upload) | IPFS-based secure image uploader | JavaScript, Web3 |
+| 🤖 [EDUBot](https://github.com/Rio2802/EDUBot) | RAG chatbot for interactive learning | Python |
+| 🎓 [eLearning](https://github.com/Rio2802/eLearning) | Online education system with content management | PHP, MySQL |
+| 🌐 [Portfolio](https://github.com/Rio2802/Portfolio) | My personal portfolio website | HTML, CSS, JS |
+
+---
+
+### 🧩 Upcoming Repositories
+#### 🔹 [mini-react-components](https://github.com/Rio2802/mini-react-components)
+> Reusable, minimal, and beautiful React UI components using Tailwind CSS and Framer Motion.
+
+#### 🔹 [python-utils](https://github.com/Rio2802/python-utils)
+> Handy Python scripts for automation, APIs, and productivity — lightweight and effective.
+
+---
+
+### 🔥 Consistency Goal
+> ✅ **1+ Commit/Day** — Documentation, bug fix, or refactor.  
+> 🏗️ Focus areas: Repositories, Commits, Multi-Language Skills.
 
 ---
 
@@ -30,10 +83,10 @@
   <a href="https://github.com/Rio2802" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com/nishchal.gond/" target="_blank">
+  <a href="https://www.facebook.com" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/rio.zen7/" target="_blank">
+  <a href="https://www.instagram.com" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://hashnode.com/@Rio2802" target="_blank">
@@ -42,51 +95,9 @@
 </p>
 
 
-<!-- 🏆 GitHub Trophies -->
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rio2802&theme=algolia&margin-w=10&margin-h=10&no-frame=true" alt="GitHub Trophies" />
-</p>
 
 ---
 
-### ⚙️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,django,nodejs,mysql,git,github,figma,vscode,firebase&theme=dark" />
+  <b>✨ “Code. Learn. Repeat.” ✨</b>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rio2802&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rio2802&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rio2802&layout=compact&theme=radical" alt="Top Languages" width="60%"/>
-</p>
-
----
-
-### ✨ Fun Section
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Random Dev Joke" />
-</p>
-
----
-
-### ☕ Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/rio2802">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy Me A Coffee"/>
-  </a>
-</p>
-
----
-
-<h3 align="center">⭐️ From <a href="https://github.com/Rio2802">Rio2802</a></h3>
