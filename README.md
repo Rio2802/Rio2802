@@ -30,10 +30,10 @@
   <a href="https://github.com/Rio2802" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.facebook.com" target="_blank">
+  <a href="https://www.facebook.com/nishchal.gond/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/rio.zen7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://hashnode.com/@Rio2802" target="_blank">
