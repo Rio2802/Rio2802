@@ -1,9 +1,7 @@
 <!-- 🏞️ Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rio2802/Rio2802/main/assets/banner.gif" alt="Profile Banner" width="100%" />
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Profile Banner" width="100%" />
 </p>
-
-
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bcd4;">Nishchal Gond</span></h1>
 <h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Engineer | 🤖 AI Enthusiast</h3>
