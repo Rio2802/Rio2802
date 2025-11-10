@@ -1,7 +1,8 @@
 <!-- 🏞️ Profile Banner -->
 <p align="center">
-  <video src="assets/banner.mp4" autoplay muted loop playsinline style="width:100%;max-width:100%;border:0;"></video>
+  <img src="https://raw.githubusercontent.com/Rio2802/Rio2802/main/assets/banner.gif" alt="Profile Banner" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bcd4;">Nishchal Gond</span></h1>
