@@ -11,6 +11,10 @@
 </p>
 
 ---
+<!-- 🐍 GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 
 ### 🌟 Quick Info
 - 🔭 I’m currently working on **SmartRide Manager** (React Native + Expo)  
