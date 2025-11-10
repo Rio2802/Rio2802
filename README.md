@@ -1,7 +1,8 @@
 <!-- 🏞️ Profile Banner -->
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="Profile Banner" width="100%" />
+  <video src="assets/banner.mp4" autoplay muted loop playsinline style="width:100%;max-width:100%;border:0;"></video>
 </p>
+
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bcd4;">Nishchal Gond</span></h1>
 <h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Engineer | 🤖 AI Enthusiast</h3>
