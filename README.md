@@ -31,12 +31,13 @@
 
 ---
 
-<!-- 🏆 GitHub Trophies -->
+<!-- 🏆 GitHub Trophies (Forked Service) -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rio2802&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <a href="https://github.com/screw-hand/github-profile-trophy">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Rio2802&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
+
 
 ---
 
