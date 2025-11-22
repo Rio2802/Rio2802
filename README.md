@@ -52,58 +52,20 @@
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
 
-### 🚘 SmartRide Manager
-- React Native + Firebase app for bike maintenance tracking  
-**Tech:** `React Native` `Firebase`  
-🔗 https://github.com/Rio2802/SmartRideManager
-
----
-
-### 🧠 J.A.D.E
-AI-based assistant leveraging NLP for automation  
-**Tech:** `Python`  
-🔗 https://github.com/Rio2802/J.A.D.E
-
----
-
-### 🔗 IPFS IMG Upload
-- IPFS-based secure image uploader  
-**Tech:** `JavaScript` `Web3`  
-🔗 https://github.com/Rio2802/IPFS_IMG_upload
-
----
-
-### 🤖 EDUBot
-- RAG chatbot for interactive learning  
-**Tech:** `Python`  
-🔗 https://github.com/Rio2802/EDUBot
-
----
-
-### 📄 Chat With PDF (⭐ HIGH VALUE PROJECT)
-- Generative AI app to upload PDFs, build FAISS vector index, and chat using Claude.
-
-**Models Used:**
-- Amazon Titan Embedding G1 - Text
-- Anthropic Claude 2.1
-
-**Tech:** `Amazon Bedrock` `LangChain` `Python` `Docker` `Amazon S3`
-
-🔗 https://github.com/Rio2802/ChatPDF
-
----
-
-### 🌐 Portfolio
-- My personal portfolio website  
-**Tech:** `HTML` `CSS` `JavaScript`  
-🔗 https://github.com/Rio2802/Portfolio
+| 🚀 Project | 📝 Description | 💻 Stack |
+|--------|------------|------|
+| 🚘 **[SmartRide Manager](https://github.com/Rio2802/SmartRideManager)** | Bike maintenance tracking app | React Native, Firebase |
+| 🧠 **[J.A.D.E](https://github.com/Rio2802/J.A.D.E)** | AI assistant for automation | Python |
+| 🔗 **[IPFS IMG Upload](https://github.com/Rio2802/IPFS_IMG_upload)** | Secure image uploader using IPFS | JavaScript, Web3 |
+| 🤖 **[EDUBot](https://github.com/Rio2802/EDUBot)** | RAG chatbot for learning | Python |
+| 📄 **[Chat With PDF](https://github.com/Rio2802/ChatPDF)** ⭐ | Chat with PDFs using FAISS + Claude | Amazon Bedrock, LangChain, Python, Docker, S3 |
+| 🌐 **[Portfolio](https://github.com/Rio2802/Portfolio)** | My personal website | HTML, CSS, JS |
 
 </div>
-
 
 ---
 
