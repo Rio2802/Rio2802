@@ -52,15 +52,57 @@
 
 ---
 
-### 🚀 Featured Projects
-| Project | Description | Stack |
-|----------|--------------|--------|
-| 🚘 [SmartRide Manager](https://github.com/Rio2802/SmartRideManager) | React Native + Firebase app for bike maintenance tracking | React Native, Firebase |
-| 🧠 [J.A.D.E](https://github.com/Rio2802/J.A.D.E) | AI-based assistant leveraging NLP for automation | Python |
-| 🔗 [IPFS IMG Upload](https://github.com/Rio2802/IPFS_IMG_upload) | IPFS-based secure image uploader | JavaScript, Web3 |
-| 🤖 [EDUBot](https://github.com/Rio2802/EDUBot) | RAG chatbot for interactive learning | Python |
-| 📄 [Chat With PDF](https://github.com/Rio2802/ChatPDF.git) | Generative AI app to upload PDFs, build vector index (FAISS), and chat using Amazon Bedrock + Claude | Amazon Bedrock, LangChain, Python, Docker, Amazon S3 |
-| 🌐 [Portfolio](https://github.com/Rio2802/Portfolio) | My personal portfolio website | HTML, CSS, JS |
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🚘 SmartRide Manager
+- React Native + Firebase app for bike maintenance tracking  
+**Tech:** `React Native` `Firebase`  
+🔗 https://github.com/Rio2802/SmartRideManager
+
+---
+
+### 🧠 J.A.D.E
+AI-based assistant leveraging NLP for automation  
+**Tech:** `Python`  
+🔗 https://github.com/Rio2802/J.A.D.E
+
+---
+
+### 🔗 IPFS IMG Upload
+- IPFS-based secure image uploader  
+**Tech:** `JavaScript` `Web3`  
+🔗 https://github.com/Rio2802/IPFS_IMG_upload
+
+---
+
+### 🤖 EDUBot
+- RAG chatbot for interactive learning  
+**Tech:** `Python`  
+🔗 https://github.com/Rio2802/EDUBot
+
+---
+
+### 📄 Chat With PDF (⭐ HIGH VALUE PROJECT)
+- Generative AI app to upload PDFs, build FAISS vector index, and chat using Claude.
+
+**Models Used:**
+- Amazon Titan Embedding G1 - Text
+- Anthropic Claude 2.1
+
+**Tech:** `Amazon Bedrock` `LangChain` `Python` `Docker` `Amazon S3`
+
+🔗 https://github.com/Rio2802/ChatPDF
+
+---
+
+### 🌐 Portfolio
+- My personal portfolio website  
+**Tech:** `HTML` `CSS` `JavaScript`  
+🔗 https://github.com/Rio2802/Portfolio
+
+</div>
 
 
 ---
