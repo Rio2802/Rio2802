@@ -59,7 +59,7 @@
 | 🧠 [J.A.D.E](https://github.com/Rio2802/J.A.D.E) | AI-based assistant leveraging NLP for automation | Python |
 | 🔗 [IPFS IMG Upload](https://github.com/Rio2802/IPFS_IMG_upload) | IPFS-based secure image uploader | JavaScript, Web3 |
 | 🤖 [EDUBot](https://github.com/Rio2802/EDUBot) | RAG chatbot for interactive learning | Python |
-| 🎓 [eLearning](https://github.com/Rio2802/eLearning) | Online education system with content management | PHP, MySQL |
+| 🎓 [RAG-PDF](https://github.com/Rio2802/ChatPDF.git) | Online education system with content management | PHP, MySQL |
 | 🌐 [Portfolio](https://github.com/Rio2802/Portfolio) | My personal portfolio website | HTML, CSS, JS |
 
 ---
