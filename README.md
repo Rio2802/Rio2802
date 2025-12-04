@@ -11,8 +11,7 @@
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thapavikas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
----
+</p>                                                      
 <!-- 🐍 GitHub Contribution Snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhiz2411/Abhiz2411/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
