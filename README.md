@@ -4,7 +4,8 @@
 </p>
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00bcd4;">Nishchal Gond</span></h1>
-<h3 align="center">💻 Full-Stack Developer | ☁️ Cloud Engineer | 🤖 AI Enthusiast</h3>
+<h3 align="center">💻 Software Engineer (Java & Backend) | ☁️ Cloud-Native Applications | 🤖 AI-Assisted Systems
+</h3>
 
 <p align="center">
   <i>“Don't complain about the tools you don't have. Master the ones you do.”</i>
@@ -44,11 +45,13 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rio2802&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rio2802&theme=radical" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=Rio2802&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" />
 </p>
 
 ---
