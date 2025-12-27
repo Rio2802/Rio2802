@@ -44,15 +44,15 @@
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=Rio2802&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" />
-</p>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rio2802&show_icons=true&theme=radical&cache_seconds=1800" alt="Rio2802's GitHub Stats" />
+
+  <br/>
+
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rio2802&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" alt="Rio2802's Top Languages" />
+
+</div>
 
 ---
 
