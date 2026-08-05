@@ -1,13 +1,4 @@
 <!-- ========================= HEADER / BANNER ========================= -->
-
-<p align="center">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=1B4WA4pFolZxHSNskc_cPs22p2qFAHbpQ" 
-    alt="Banner" 
-    width="100%" 
-  />
-</p>
-
 <h1 align="center">Hi 👋 I'm Nishchal Gond</h1>
 
 <h3 align="center">
