@@ -1,94 +1,78 @@
-<!-- ========================= HEADER / BANNER ========================= -->
-<h1 align="center">Hi 👋 I'm Nishchal Gond</h1>
----
-
-<p align="center">
-  <img 
-    src="https://drive.google.com/file/d/1gWXlZzwKexGmtwdHpXJKlyqGByXIs8I_/view?usp=sharing" 
-    alt="NEO animation"
-  />
-</p>
-
----
-
-<h3 align="center">
-Software Engineer | Backend & AI Systems | Cloud & Scalable Applications
-</h3>
-
-<p align="center">
-  <i>
-    Building scalable systems, AI-powered applications, and clean developer experiences.
-  </i>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-I’m a Software Engineer with experience across frontend, backend, AI systems, and cloud-native applications.
-
-I enjoy building scalable and maintainable software with a strong focus on:
-
-- Clean architecture
-- Efficient backend systems
-- Performance optimization
-- Developer experience
-- End-to-end product ownership
-
-I work across the stack — from APIs and databases to frontend interfaces and deployment pipelines.
-
----
-
-# 🛠️ Tech Stack
-
-## 🚀 Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
-</p>
-
-## ⚙️ Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,django,flask,mysql,mongodb,postgres" />
-</p>
-
-## ☁️ Cloud / DevOps / Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
-</p>
-
-## 🤖 AI / LLM Engineering
-
 <div align="center">
 
-LangChain • LlamaIndex • FAISS • RAG Pipelines • Amazon Bedrock • OpenAI APIs
+# Hi, I'm Nishchal Gond 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DCB51&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+%26+AI+Systems+Engineer;Cloud+%26+Scalable+Applications;Building+with+Clean+Architecture" alt="Typing SVG" />
+
+Building scalable systems, AI-powered applications, and clean developer experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchal-g-741a64107)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishchal-gond)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nishchal-gond)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=nishchal-gond&color=1DCB51&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/nishchal-gond?style=flat-square&color=1DCB51&label=Followers)
 
 </div>
 
----
+<br/>
 
-# 🧠 Engineering Focus
+## About Me
 
-I focus on building production-ready applications with scalability and maintainability in mind.
+I'm a Software Engineer with experience across frontend, backend, AI systems, and cloud-native applications. I enjoy building scalable and maintainable software with a strong focus on clean architecture and end-to-end product ownership — from APIs and databases to frontend interfaces and deployment pipelines.
 
-### Things I care about:
+**Core focus areas**
 
-- Writing clean and testable code
-- Scalable frontend architectures
-- Reliable backend APIs
-- AI-assisted workflows
-- System design fundamentals
-- Performance optimization
-- Real-world product thinking
+| | |
+|---|---|
+| 🏗️ Clean Architecture | Designing systems that scale without collapsing under their own weight |
+| ⚡ Backend Engineering | Reliable, efficient APIs and services |
+| 🚀 Performance | Optimization at both the frontend and backend layer |
+| 🎨 Developer Experience | Tooling and workflows that make teams faster |
+| 🔄 Product Ownership | Requirements → design → ship → monitor |
 
----
+<br/>
 
-# ⚙️ How I Build End-to-End Features
+## Tech Stack
 
-### My development workflow:
+<table>
+<tr>
+<td valign="top" width="50%">
 
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,django,flask,mysql,mongodb,postgres" />
+
+</td>
+<td valign="top" width="50%">
+
+**Cloud / DevOps / Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
+
+**AI / LLM Engineering**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square)
+![Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## How I Build End-to-End Features
+
+```text
 1. Understand requirements & user flows
 2. Design APIs & data models
 3. Implement backend services
@@ -96,10 +80,11 @@ I focus on building production-ready applications with scalability and maintaina
 5. Handle edge cases & failure states
 6. Optimize performance & scalability
 7. Deploy & monitor applications
+```
 
----
+<br/>
 
-# 🔧 Backend Experience
+## Backend Experience
 
 - REST API development using Node.js / Express
 - Backend systems using Java & Python
@@ -107,111 +92,77 @@ I focus on building production-ready applications with scalability and maintaina
 - SQL & NoSQL database design
 - Cloud-native architectures
 - AI integrations & automation systems
-- Understanding caching, failures, and scaling basics
+- Caching, failure handling, and scaling fundamentals
 
----
+<br/>
 
-# 🚀 Featured Projects
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **SmartRide Manager** | Bike maintenance tracking app | React Native, Firebase |
+| **J.A.D.E** | AI assistant for automation | Python |
+| **Chat With PDF** | RAG PDF chatbot using FAISS + Claude | Bedrock, LangChain |
+| **IPFS IMG Upload** | Secure image uploader using IPFS | JavaScript, Web3 |
+| **EDUBot** | AI-powered learning chatbot | Python |
+| **Portfolio** | Personal developer portfolio | HTML, CSS, JS |
+
+<br/>
+
+## GitHub Analytics
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 💻 Stack |
-|------------|----------------|----------|
-| 🚘 SmartRide Manager | Bike maintenance tracking app | React Native, Firebase |
-| 🤖 J.A.D.E | AI assistant for automation | Python |
-| 📄 Chat With PDF | RAG PDF chatbot using FAISS + Claude | Bedrock, LangChain |
-| 🔗 IPFS IMG Upload | Secure image uploader using IPFS | JavaScript, Web3 |
-| 🧠 EDUBot | AI-powered learning chatbot | Python |
-| 🌐 Portfolio | Personal developer portfolio | HTML, CSS, JS |
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nishchal-gond&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishchal-gond&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css&cache_seconds=1800" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishchal-gond&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishchal-gond&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
 
 </div>
 
----
+### Highlights
 
-### 📈 GitHub Stats
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nishchal-gond&show_icons=true&theme=radical&cache_seconds=1800" alt="nishchal-gond's GitHub Stats" />
-
-  <br/>
-
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishchal-gond&layout=compact&theme=radical&langs_count=6&hide=html,css&cache_seconds=1800" alt="nishchal-gond's Top Languages" />
+![Followers](https://img.shields.io/github/followers/nishchal-gond?style=for-the-badge&color=1DCB51&labelColor=000000)
+![Profile Repo Stars](https://img.shields.io/github/stars/nishchal-gond/nishchal-gond?style=for-the-badge&color=1DCB51&labelColor=000000&label=Stars)
+![Top Language](https://img.shields.io/github/languages/top/nishchal-gond/nishchal-gond?style=for-the-badge&color=1DCB51&labelColor=000000)
 
 </div>
 
----
+<br/>
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
-    alt="snake animation"
-  />
-</p>
+## Currently Learning
 
----
+`Scalable Frontend Architecture` `System Design` `Docker & CI/CD` `Advanced TypeScript` `AI Agent Systems`
 
-# 🎯 Currently Learning
+<br/>
 
-<div align="left">
+## Ask Me About
 
-Scalable frontend architecture  
-System design for engineers  
-Docker & CI/CD pipelines  
-Advanced TypeScript patterns  
-AI agent systems
+`React & Next.js` `Backend Engineering` `AI/LLM Systems` `Cloud-Native Apps` `Frontend Performance` `API Architecture` `Clean Code Practices`
 
-</div>
+<br/>
 
----
+<details>
+<summary><b>A note from the terminal</b> (click to expand)</summary>
+<br/>
 
-# 💬 Ask Me About
+> "There is no code, only algorithms waiting to be freed." — *inspired by The Matrix*
+>
+> "Not all who wander through Stack Overflow are lost." — *inspired by The Hobbit*
 
-<div align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1500&color=1DCB51&background=00000000&center=true&vCenter=true&width=650&lines=I+took+the+red+pill...+and+found+more+bugs+%F0%9F%90%87;An+unexpected+deploy+to+production+%F0%9F%A7%9D;There+is+no+bug%2C+only+a+feature+I+haven%27t+documented" alt="Typing SVG" />
 
-React & Next.js  
-Backend engineering  
-AI/LLM systems  
-Cloud-native applications  
-Frontend performance  
-API architecture  
-Clean code practices
+</details>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+
+<sub>✨ Code • Build • Scale • Repeat ✨</sub>
 
 </div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/nishchal-g-741a64107">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/nishchal-gond">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://hashnode.com/@nishchal-gond">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-# 🔥 Fun Fact
-
-<div align="left">
-
-> 90% coding, 10% wondering why it worked 🤝
-
-</div>
-
----
-
-<p align="left">
-  <b>✨ Code • Build • Scale • Repeat ✨</b>
-</p>
