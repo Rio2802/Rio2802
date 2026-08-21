@@ -1,5 +1,15 @@
 <!-- ========================= HEADER / BANNER ========================= -->
 <h1 align="center">Hi 👋 I'm Nishchal Gond</h1>
+---
+
+<p align="center">
+  <img 
+    src="https://drive.google.com/file/d/1gWXlZzwKexGmtwdHpXJKlyqGByXIs8I_/view?usp=sharing" 
+    alt="NEO animation"
+  />
+</p>
+
+---
 
 <h3 align="center">
 Software Engineer | Backend & AI Systems | Cloud & Scalable Applications
