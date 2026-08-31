@@ -11,8 +11,6 @@ Building scalable systems, AI-powered applications, and clean developer experien
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nishchal-gond)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=nishchal-gond&color=1DCB51&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Anthropic?style=flat-square&color=1DCB51&label=Followers)
 
 </div>
 
