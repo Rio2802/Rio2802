@@ -12,7 +12,7 @@ Building scalable systems, AI-powered applications, and clean developer experien
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishchal-gond&color=1DCB51&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/serg-vostrikov-bitrix?style=flat-square&color=1DCB51&label=Followers)
+![Followers](https://img.shields.io/github/followers/Anthropic?style=flat-square&color=1DCB51&label=Followers)
 
 </div>
 
