@@ -4,9 +4,9 @@
 
 <img src="avi-ascii.svg" alt="ASCII Portrait" width="380"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=650&height=60&lines=Nishchal+Gond;नमस्ते%2C+I'm+Nishchal;%3E+Identity+confirmed" alt="Name Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=650&height=60&lines=Nishchal+Gond;नमस्ते%2C+I'm+Nishchal;%3E+Identity+confirmed" alt="Name Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=8BE9FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Software+Engineer+%7C+Backend+%26+AI+Systems;One+does+not+simply+ship+untested+code.;With+great+backend+comes+great+responsibility.;Wake+up...+the+build+passed." alt="Role Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=8BE9FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=120&lines=Software+Engineer+%7C+Backend+%26+AI+Systems;One+does+not+simply+ship+untested+code.;With+great+backend+comes+great+responsibility.;Wake+up...+the+build+passed." alt="Role Typing SVG" />
 
 <br/>
 
@@ -205,7 +205,7 @@ I'm a Software Engineer working across frontend, backend, AI systems, and cloud-
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2400&pause=1200&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=%3E+There+is+no+bug%2C+only+a+feature+I+haven%27t+documented;%3E+An+unexpected+deploy+to+production+%F0%9F%A7%9D;%3E+The+ring+is+merged.+The+pipeline+is+green." alt="Terminal Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=1200&color=00FF9C&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=%3E+There+is+no+bug%2C+only+a+feature+I+haven%27t+documented;%3E+An+unexpected+deploy+to+production+%F0%9F%A7%9D;%3E+The+ring+is+merged.+The+pipeline+is+green." alt="Terminal Typing SVG" />
 
 </div>
 
