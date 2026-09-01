@@ -4,6 +4,7 @@
 
 <table>
 <tr>
+
 <td width="45%" align="center" valign="middle">
 
 <img src="avi-ascii.svg" alt="ASCII Portrait" width="380"/>
@@ -12,13 +13,10 @@
 
 <td width="55%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2200&pause=700&color=00FF9C&center=true&vCenter=true&width=600&height=70&lines=Nishchal+Gond;नमस्ते%2C+I'm+Nishchal;%3E+Identity+confirmed" alt="Nishchal Gond"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=8BE9FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Software+Engineer+%7C+Backend+%26+AI+Systems;One+does+not+simply+ship+untested+code.;With+great+backend+comes+great+responsibility.;Wake+up...+the+build+passed." alt="Software Engineer | Backend & AI Systems"/>
+<img src="intro-typing.svg" alt="Nishchal Gond - Software Engineer | Backend & AI Systems" width="620"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -40,6 +38,7 @@
 </div>
 
 <br/>
+
 ## 🕸️ About Me
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9C,100:8BE9FD&height=3&width=800" />
