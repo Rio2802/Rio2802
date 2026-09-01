@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="230" viewBox="0 0 650 230">
+  <rect width="650" height="230" fill="transparent"/>
+  <style>
+    .name { font: 700 40px 'Fira Code','Courier New',monospace; fill:#00FF9C; }
+    .role { font: 500 20px 'Fira Code','Courier New',monospace; fill:#8BE9FD; }
+    .small { font: 500 18px 'Fira Code','Courier New',monospace; fill:#00FF9C; }
+    .cursor { fill:#00FF9C; animation: blink 0.8s steps(1,end) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+  </style>
+
+  <!-- Name -->
+  <g>
+    <text x="325" y="55" text-anchor="middle" class="name">Nishchal Gond</text>
+    <rect x="478" y="20" width="3" height="43" class="cursor"/>
+  </g>
+
+  <!-- Hindi / identity -->
+  <text x="325" y="91" text-anchor="middle" class="small">नमस्ते, I'm Nishchal;</text>
+  <text x="325" y="119" text-anchor="middle" class="small">&gt; Identity confirmed</text>
+
+  <!-- Divider -->
+  <rect x="90" y="136" width="470" height="2" fill="#00FF9C" opacity="0.8"/>
+
+  <!-- Role -->
+  <text x="325" y="169" text-anchor="middle" class="role">Software Engineer | Backend &amp; AI Systems</text>
+  <text x="325" y="197" text-anchor="middle" class="role">One does not simply ship untested code.</text>
+  <text x="325" y="225" text-anchor="middle" class="role">With great backend comes great responsibility.</text>
+</svg>
